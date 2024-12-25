@@ -1,4 +1,4 @@
-# Contador de Gastos
+# Control de Gastos
 
 Aplicacion desarrollada para el control de gastos, en el cual inicialmente se define un presupuesto, habilitando la vista
 del componente en donde se visualiza el control de los gastos en porcentaje mediante una esfera. Los gastos se aprecian en forma de lista, donde se destacan 
